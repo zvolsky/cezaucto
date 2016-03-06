@@ -1,0 +1,12 @@
+Odpad/
+In/
+Out/
+
+*.bak
+*.BAK
+*.tbk
+*.TBK
+*.zip
+*.ZIP
+
+.directory 
